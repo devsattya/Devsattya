@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**devsattya/Devsattya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**devsattya/Sales Insights Data Analysis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
